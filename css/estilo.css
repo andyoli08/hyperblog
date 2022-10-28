@@ -1,7 +1,13 @@
 body
 {
-    color: deeppink;
+    color: black;
     text-align: center;
     font-family: "arial";
 
-}
+}::-webkit-textfield-decoration-container
+
+::-webkit-slider-thumb
+
+padding  980%
+
+text - article
