@@ -2,7 +2,9 @@ body
 {
     color: black;
     text-align: center;
-    font-family: "arial";
+    font-family: "courier";
+    font-size: large;
+    font-display: ;color:royalblue;
 
 }::-webkit-textfield-decoration-container
 
